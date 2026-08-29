@@ -1,0 +1,3 @@
+CONCLUSIÓN
+
+- Se hizo uso de la estructura Screenplay la cual me ayudó a ordenar el código, separando lo que son los elementos de la página de las acciones del usuario, lo que hace que mantener la prueba sea mucho más cómodo si cambia la interfaz.
