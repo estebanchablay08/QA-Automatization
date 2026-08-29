@@ -1,0 +1,3 @@
+CONCLUSIÓN
+
+Karate ahorra un montón de tiempo al no tener que escribir código en Java para hacer las peticiones HTTP, todo se maneja directo en los archivos .feature de forma limpia.
